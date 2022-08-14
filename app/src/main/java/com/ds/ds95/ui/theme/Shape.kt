@@ -10,4 +10,4 @@ val Shapes = Shapes(
     large = RoundedCornerShape(0.dp)
 )
 
-val Pixel = 5.dp
+val BasicPixel5 = 5.dp
